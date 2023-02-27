@@ -1,5 +1,6 @@
 # MATH-2270-Winter-2023
 Stuff for MATH 2270 Winter 2023.
+
 Lecture 1: Jan. 9, 2023
 
 Lecture 2: Jan. 11, 2023
