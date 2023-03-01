@@ -36,3 +36,9 @@ Lecture 16: Feb. 13, 2023
 Lecture 17: Feb. 15, 2023
 
 Lecture 18: Feb. 17, 2023
+
+Lecture 19: Feb. 27, 2023
+
+Lecture 20: Mar. 1, 2023
+
+Lecture 21: Mar. 3, 2023
